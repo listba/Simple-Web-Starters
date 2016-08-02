@@ -3,9 +3,11 @@ This is a basic skeleton for quicker startup of an Express.JS app with coffeescr
 
 
 ## To Run via command line
-* npm install
-* grunt
-* node app.js
+``` bash
+$ npm install
+$ grunt
+$ node app.js
+```
 
 _*Note*: You will need npm and Node.JS installed in order to run this._
 
