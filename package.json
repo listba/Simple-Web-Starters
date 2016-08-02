@@ -1,0 +1,20 @@
+{
+  "name": "Simple-Web-Starters",
+  "version": "1.0.0",
+  "description": "This project is used to host skelton starter projects for popular web framework combinations.\r Branches are used to house each project in its own environment without me having to create a bunch of differnt repos or a complex gitignore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listba/Simple-Web-Starters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listba/Simple-Web-Starters/issues"
+  },
+  "homepage": "https://github.com/listba/Simple-Web-Starters#readme"
+}
