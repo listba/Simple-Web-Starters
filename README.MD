@@ -9,27 +9,27 @@ $ grunt
 $ node app.js
 ```
 
-_*Note*: You will need npm and Node.JS installed in order to run this._
+<i>*Note*: You will need npm and Node.JS installed in order to run this.<i>
 
 
 ## Directory Structure
 <pre>
-**root**
-├── **views**
-│   └── _index.html_
-├── **public**
-│   ├── **content**
-│   │   ├── **css**
-│   │       └── _main.css_
-│   │   └── **less**
-│   │       └── _main.less_
-│   └── **scripts**
-│   │   ├── **coffeescript**
-│   │       └── _main.coffee_
-│   │   └── **javascript**
-│   │       └── _main.js_
-├── _app.coffee_
-├── _gruntfile.js_
-├── _package.json_
-└── _config.json_
+<strong>root</strong>
+├── <strong>views</strong>
+│   └── <i>index.html</i>
+├── <strong>public</strong>
+│   ├── <strong>content</strong>
+│   │   ├── <strong>css</strong>
+│   │       └── <i>main.css</i>
+│   │   └── <strong>less</strong>
+│   │       └── <i>main.less</i>
+│   └── <strong>scripts</strong>
+│   │   ├── <strong>coffeescript</strong>
+│   │       └── <i>main.coffee</i>
+│   │   └── <strong>javascript</strong>
+│   │       └── <i>main.js<i/>
+├── <i>app.coffee</i>
+├── <i>gruntfile.js</i>
+├── <i>package.json</i>
+└── <i>config.json</i>
 </pre>
