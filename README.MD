@@ -13,6 +13,7 @@ _*Note*: You will need npm and Node.JS installed in order to run this._
 
 
 ## Directory Structure
+<pre>
 **root**
 ├── **views**
 │   └── _index.html_
@@ -31,3 +32,4 @@ _*Note*: You will need npm and Node.JS installed in order to run this._
 ├── _gruntfile.js_
 ├── _package.json_
 └── _config.json_
+</pre>
